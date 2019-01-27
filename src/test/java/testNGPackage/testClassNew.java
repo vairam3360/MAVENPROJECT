@@ -17,7 +17,9 @@ public class testClassNew {
 
         @BeforeEach
         public void testNumber2(){
-            System.out.println("Testing Number 2 new line new commit");
+            System.out.println("Testing Number 2 new line new commit")
+            ;
+            System.out.println("New Git commit");
 
         }
 
