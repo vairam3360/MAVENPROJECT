@@ -1,0 +1,9 @@
+<suite name="chummaeSuite">
+    <test name ="chummaTest">
+ <classes>
+     <class name="testNGPackage.testClassNew"
+      ></class>
+
+ </classes>
+    </test>
+</suite>
